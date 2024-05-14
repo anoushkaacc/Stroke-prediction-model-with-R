@@ -316,35 +316,4 @@ confusionMatrix(predict(rf,test),test$stroke)
 ```
 
 # Task Five: Findings and Conclusions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Our model provides more than 95% accuracy.
